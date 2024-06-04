@@ -32,7 +32,7 @@ a) `git merge feature-branch`
 b) `git join feature-branch`  
 c) `git combine feature-branch`  
 d) `git integrate feature-branch`
-
+A
 
 #### Question 5:
 **Quelle commande est utilisée pour cloner un dépôt distant ?**
